@@ -49,14 +49,3 @@ void draw() {
     }
   }
   
-  
-  
-  
-  
-  
-  
-  
-}
-
-void mousePressed() {
-}
