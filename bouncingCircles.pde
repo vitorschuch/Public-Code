@@ -54,9 +54,3 @@ void draw() {
   
   
   
-  
-  
-}
-
-void mousePressed() {
-}
